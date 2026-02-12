@@ -21,4 +21,4 @@ The PDF document presents the design, implementation, and evaluation of the proj
 Computer Engineering – Project / Term Project
 
 ## Note
-This repository only includes the project report. Source code is not included.
+This repository includes the project report. Source code is also included.
